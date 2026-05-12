@@ -1,4 +1,3 @@
-
 # Ultimate-CTF-cheatshit
 Made with 💩, tears and clanker slavery
 
@@ -17,6 +16,14 @@ Made with 💩, tears and clanker slavery
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+## Dove si trova la roba
 
-
+📂 Repo
+├── 📁 other stuff 
+│   └──Contiene tutto il resto, tipo l'exploit di SoH
+├── 📁 pwntools
+|    └── Contiene esempi di programmi con pwntools, e i suoi metodi più utilizzati
+├── 📁 requests
+|    └── Contiene esempi di programmi con requests, e i suoi metodi più utilizzati
+└── 📃 README.md
 
