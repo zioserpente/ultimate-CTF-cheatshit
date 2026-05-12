@@ -19,13 +19,13 @@ Made with 💩, tears and clanker slavery
 ## Dove si trova la roba
 
 ``` text
-📂 Repo
-├── 📁 other stuff 
-│   └──Contiene tutto il resto, tipo l'exploit di SoH
+📂 Repo 
+│   
 ├── 📁 pwntools
 |    └── Contiene esempi di programmi con pwntools, e i suoi metodi più utilizzati
 ├── 📁 requests
 |    └── Contiene esempi di programmi con requests, e i suoi metodi più utilizzati
 ├── 📃 README.md
-└── 📃 cheatsheetPY.md
+├── 🐍autoflagsend.py -> exploit web + invio flag automatico di SoH
+└── 📃 cheatsheetPY.md -> cheatsheet di python generale
 ```
