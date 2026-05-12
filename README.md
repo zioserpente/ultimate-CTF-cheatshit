@@ -18,7 +18,7 @@ Made with 💩, tears and clanker slavery
 
 ## Dove si trova la roba
 
-''' text
+``` text
 📂 Repo
 ├── 📁 other stuff 
 │   └──Contiene tutto il resto, tipo l'exploit di SoH
@@ -28,4 +28,4 @@ Made with 💩, tears and clanker slavery
 |    └── Contiene esempi di programmi con requests, e i suoi metodi più utilizzati
 └── 📃 README.md
 
-'''
+```
