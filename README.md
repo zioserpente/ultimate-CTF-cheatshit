@@ -26,6 +26,6 @@ Made with 💩, tears and clanker slavery
 |    └── Contiene esempi di programmi con pwntools, e i suoi metodi più utilizzati
 ├── 📁 requests
 |    └── Contiene esempi di programmi con requests, e i suoi metodi più utilizzati
-└── 📃 README.md
-
+├── 📃 README.md
+└── 📃 cheatsheetPY.md
 ```
