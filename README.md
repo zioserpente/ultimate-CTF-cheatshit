@@ -18,7 +18,7 @@ Made with 💩, tears and clanker slavery
 
 ## Dove si trova la roba
 
-'''text
+''' text
 📂 Repo
 ├── 📁 other stuff 
 │   └──Contiene tutto il resto, tipo l'exploit di SoH
