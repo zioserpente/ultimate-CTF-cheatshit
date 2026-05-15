@@ -20,8 +20,7 @@ with open("output.txt", "w") as f:
 
 # Append to a file
 with open("output.txt", "a") as f:
-    f.write("
-Another line")
+    f.write("Another line")
 
 # Example output:
 # output.txt content:
@@ -86,5 +85,9 @@ product = reduce(lambda x, y: x * y, numbers)
 ```
 ## Dictionary Manipulations
 ``` python
-my_dict = {'a': 1, 'b': 2, 'c': 3}  # Get value with default value = my_dict.get('d', 0)  # Example output: # value = 0  # Dictionary comprehension squared_dict = {key: value**2 for key, value in my_dict.items()}  # Example output: # squared_dict = {'a': 1, 'b': 4, 'c': 9}
+my_dict = {'a': 1, 'b': 2, 'c': 3}  
+# Get value with default 
+value = my_dict.get('d', 0)  # Example output: # value = 0  
+# Dictionary comprehension 
+squared_dict = {key: value**2 for key, value in my_dict.items()}  # Example output: # squared_dict = {'a': 1, 'b': 4, 'c': 9}
 ```
