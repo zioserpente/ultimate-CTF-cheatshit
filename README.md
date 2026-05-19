@@ -27,5 +27,7 @@ Made with 💩, tears and clanker slavery
 |    └── Contiene esempi di programmi con requests, e i suoi metodi più utilizzati
 ├── 📃 README.md
 ├── 🐍autoflagsend.py -> exploit web + invio flag automatico di SoH
+├── 🐍autoflagsendsim.py -> exploit web shporas della simulazione locale 
+├── 🐍adattamentoFarm.py -> fatevi dar nel culo che se ci dicevate prima di sto tool le vincevamo tutte le gare, BASTARDI
 └── 📃 cheatsheetPY.md -> cheatsheet di python generale
 ```
